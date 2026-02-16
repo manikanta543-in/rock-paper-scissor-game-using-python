@@ -8,6 +8,4 @@ A simple Python command-line game where you play Rock, Paper, Scissors against t
 - Determines win, lose, or draw
 - Fun and interactive CLI
 
-## How to Run
-```bash
-python rps_game.py
+
